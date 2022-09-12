@@ -9,7 +9,7 @@ A handy Python program allowing you to read your emails.
 - Python (2.6 or higher)
 - A Google account with Gmail enabled
 - Google API client and Google OAuth libraries
-- BeautifulSoup library
+- BeautifulSoup
 
 The required libraries can be installed with `pip install –upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`.
 BeautifulSoup can be installed with `pip install beautifulsoup4`.
