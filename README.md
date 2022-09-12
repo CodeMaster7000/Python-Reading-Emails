@@ -14,7 +14,7 @@ A handy Python program allowing you to read your emails.
 The required libraries can be installed with `pip install –upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`.
 BeautifulSoup can be installed with `pip install beautifulsoup4`.
 
-Afterwards, you need to set up your Google Cloud console to interact with the Gmail API.
+NOTE: You need to set up your Google Cloud console to interact with the Gmail API.
 
 ## Implementation
 
